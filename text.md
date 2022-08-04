@@ -7,3 +7,4 @@
 функционал
 
 лайфхак чтоб объединить add и commit 
+create difference
